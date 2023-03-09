@@ -1,0 +1,32 @@
+_repo: Thirty-years-in-Madagascar_70113
+_version: 0.0.1
+alternative_title: 30 years in Madagascar
+creator:
+  author:
+    agent_name: Matthews, Thomas T.
+    alias: Matthews, Thomas Trotter
+    gutenberg_agent_id: '55603'
+    url: http://www.gutenberg.org/2009/agents/55603
+description: ''
+gutenberg_issued: '2023-02-23'
+identifiers:
+  gutenberg: '70113'
+  lccn: 04032138
+language: en
+pgterms:marc904: https://archive.org/details/thirtyyearsinmad00matt
+pgterms:marc905: 20201003090850matthews
+pgterms:marc906: '1904'
+pgterms:marc907: gb
+production_note: Peter Becker, Karin Spence and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bThe Religious Tract Society, $c1904.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Missions -- Madagascar'
+- !lcc 'BV'
+- GITenberg
+title: Thirty years in Madagascar
+url: http://www.gutenberg.org/ebooks/70113
